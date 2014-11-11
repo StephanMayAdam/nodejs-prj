@@ -1,0 +1,11 @@
+{
+  "name": "hellonode",
+  "subdomain": "hellonode",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "version": "0.0.0",
+  "engines": {
+    "node": "v0.8.x"
+  }
+}
